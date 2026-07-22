@@ -1,0 +1,21 @@
+# Ambientes e caches Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Dados baixados e artefatos locais
+datasets/
+*.keras
+*.h5
+
+# Arquivos temporários e do sistema
+.tmp/
+.DS_Store
+Thumbs.db
+
+# Configurações locais de editores
+.vscode/
+.idea/
