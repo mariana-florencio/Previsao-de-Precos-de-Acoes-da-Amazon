@@ -117,10 +117,5 @@ Execute as células em ordem. A primeira execução requer internet para baixar 
 - TensorFlow/Keras para a rede LSTM;
 - KaggleHub e yfinance para aquisição dos dados.
 
-## Créditos
-
-Desenvolvido por **Mariana Florencio Cunha**, com colaboração de **Alex Vinícius Ferreira** e **Laís Cristina da Costa**.
-
-## Uso responsável
 
 Preços de ativos são influenciados por notícias, liquidez, mudanças macroeconômicas e eventos que não aparecem no histórico. O bom ajuste em um período passado não garante desempenho futuro. Veja as [limitações e próximos passos](docs/model-card.md#limitações-e-próximos-passos).
