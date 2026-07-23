@@ -118,4 +118,4 @@ Execute as células em ordem. A primeira execução requer internet para baixar 
 - KaggleHub e yfinance para aquisição dos dados.
 
 
-Preços de ativos são influenciados por notícias, liquidez, mudanças macroeconômicas e eventos que não aparecem no histórico. O bom ajuste em um período passado não garante desempenho futuro. Veja as [limitações e próximos passos](docs/model-card.md#limitações-e-próximos-passos).
+Veja as [limitações e próximos passos](docs/model-card.md#limitações-e-próximos-passos).
